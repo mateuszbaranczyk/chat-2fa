@@ -1,9 +1,7 @@
-# python_template
-Template repo for python projects
+# chat with 2fa
 
-## Init
-- Set project name in `pyproject.toml`
-- Install poetry 
-- Run `poetry install`
-- Open virtual env by `poetry shell`
-- Add dependencies  by `poetry add package_name`
+Simple chat with Flask backend and React frontend.
+
+For login PyOTP is used.
+
+
